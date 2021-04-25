@@ -1,3 +1,4 @@
+[Resume April 2021.pdf](https://github.com/KareemZeair/KareemZeair/files/6372639/Resume.April.2021.pdf)
 ### Hi there 👋
 
 <!--
