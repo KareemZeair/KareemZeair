@@ -1,4 +1,5 @@
-[Resume.pdf](https://github.com/KareemZeair/KareemZeair/files/6372640/Resume.pdf)
+[one-page resume.pdf](https://github.com/KareemZeair/KareemZeair/files/6446385/one-page.resume.pdf)
+
 
 ### Hi there 👋
 
