@@ -24,5 +24,4 @@ I am a 3rd year computer engineering student at Memorial University of Newfoundl
  ### Interests:
  I am passionate about teaching and moderating hands-on workshops with previous experiences doing so. I love cooking, reading, and socializing.
  
-[Resume .pdf](https://github.com/KareemZeair/KareemZeair/files/6488153/Resume.pdf)
-
+[Resume.pdf](https://github.com/KareemZeair/KareemZeair/files/8319292/Kareem.Zeair.Resume.pdf)
