@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 I am a 4th year computer engineering student at Memorial University of Newfoundland. Continuously improving my skills and learning new ones is something I try to live by. I am currently improving my web development skills and learning about new technologies in this field.
 
 ### Current Positions:
- I am currently the director of co-op for the Engineering Society A at my university.
+ - Software Developer Intern @ Verafin
+ - Director of co-op for the Engineering Society A @ MUN.
  
  ### Interests:
  I am passionate about teaching and moderating hands-on workshops with previous experiences doing so. I love cooking, reading, and socializing.
