@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me:
-I am a 4th year computer engineering student at Memorial University of Newfoundland. Continuously improving my skills and learning new ones is something I try to live by. I am currently improving my web development skills and learning about new technologies in this field.
+I am a graduating computer engineering student at Memorial University of Newfoundland. Continuously improving my skills and learning new ones is something I try to live by. I am currently improving my web development skills and learning about new technologies in this field.
 
 ### Current Positions:
- - Software Developer Intern @ Verafin
- - Director of co-op for the Engineering Society A @ MUN.
+ - Software Developer Intern @ Nasdaq
  
  ### Interests:
- I am passionate about teaching and moderating hands-on workshops with previous experiences doing so. I love cooking, reading, and socializing.
+ I am passionate about teaching and moderating hands-on workshops with previous experiences doing so. I love cooking, reading, and foosball.
  
 ### [Resume.pdf](https://github.com/KareemZeair/KareemZeair/blob/1dba3cb2ca4d564251aa41a672de01b69b7504a8/Resume.pdf)
