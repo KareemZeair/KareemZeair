@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me:
-I am a graduating computer engineering student at Memorial University of Newfoundland. Continuously improving my skills and learning new ones is something I try to live by. I am currently improving my web development skills and learning about new technologies in this field.
-
-### Current Positions:
- - Software Developer @ Nasdaq
+Software Developer @ Nasdaq Verafin
  
  ### Interests:
  I am passionate about teaching and moderating hands-on workshops with previous experiences doing so. I like reading, gaming, and foosball.
